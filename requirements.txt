@@ -1,0 +1,6 @@
+streamlit
+append
+pandas
+numpy
+matplotlib
+math
